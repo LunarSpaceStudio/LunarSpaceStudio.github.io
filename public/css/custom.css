@@ -17,7 +17,6 @@
 .proc caption {
     text-align: center;
 }
-.main-title
-{
-    color: #EEE;
+.main-title {
+    color: #EEE !important;
 }
