@@ -3454,6 +3454,8 @@ footer .footer_bottom {
 .icon-github:before { content: "\e636"; }
 /*---------------- END ------------------------*/
 
+
+
 @charset "utf-8";
 /* CSS Document */
 
@@ -3473,6 +3475,11 @@ footer .footer_bottom {
 .proc caption {
     text-align: center;
 }
+.main-title
+{
+    color: #EEE;
+}
+
 .entry .gist {
   background: #eee;
   border: 1px solid color-border;
