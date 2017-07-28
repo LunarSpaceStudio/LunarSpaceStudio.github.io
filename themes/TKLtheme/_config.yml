@@ -1,0 +1,45 @@
+# config
+cover: /img/codered2.jpg
+logo: /img/doge.gif
+top_saying:
+- title: LunarSpaceStudio
+- content: 睦月空间站开发者博客
+bottom_saying: <del>每一个不曾起舞的日子都是对生命的辜负。</del><br>辜负生命不如跳舞 ——边境拾遗
+# Content
+excerpt_link: 更多
+
+rss: /atom.xml
+
+highlightjs: vs
+
+##############
+proc:
+  currVer: Devel
+  iterVer: r207
+  img: /img/proc.jpg
+  platform: Windows NT
+  size: 200M
+  proc: 30%
+  date: '2017-01-20'
+###############
+
+#Works
+works:
+
+#duoshuo name
+duoshuo: duoshuo_name
+
+# Miscellaneous
+github: https://github.com/redqueeneffect
+twitter:
+facebook:
+google:
+weibo:
+
+#about  timeline
+timeline:
+
+#Links
+links:
+- name: Ends of Fantasy
+  link: https://eof-game.github.io/

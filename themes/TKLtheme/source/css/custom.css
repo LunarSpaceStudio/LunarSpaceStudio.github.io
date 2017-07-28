@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+.proc table {
+    background-color: #F6F6F6;
+    margin: 0 0 1em 0;
+    border-collapse: collapse;
+}
+.proc th {
+    background: #eee;
+    font-weight: normal;
+}
+.proc td, .proc th {
+    border: 1px solid #FFF;
+    padding: 5px;
+}
+.proc caption {
+    text-align: center;
+}
